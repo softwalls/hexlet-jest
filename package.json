@@ -1,6 +1,10 @@
 {
   "name": "hexlet-jest",
   "type": "module",
+  "jest": {
+    "testEnvironment": "node",
+    "transform": {}
+  },
   "version": "1.0.0",
   "description": "",
   "main": "./src/index.js",
